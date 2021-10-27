@@ -7,11 +7,15 @@ Choose Dataset:
 
 
 ### Outlines
+### Part A
 1. Explore the dataset
 2. Transform data with dplyr and finding insight the data
 3. Visualization with GGplot2
 4. Tidyverse example
+### Part B
+1. Power BI
 
+## Part A
 ## Part 1: Explore the dataset
 
 ```
@@ -176,3 +180,10 @@ Result:
 
 ![Graph 2](graph2.png)
 
+
+## Part B
+### Part 1: Power BI
+https://app.powerbi.com/groups/me/reports/6d6d62e1-4130-4722-a294-54caacb1094d/ReportSection
+
+### สรุปสิ่งที่ได้ทำจาก Power BI
+- เป็น Tool ที่อำนวยความสะดวกได้ดีมากในเรื่องของการวิคราะห์สถิติทางด้านต่างๆ ไม่ต้องโค้ดดิ้ง แค่เลือกใช้คอลัมน์ที่จะนำมาวิเคราะห์
