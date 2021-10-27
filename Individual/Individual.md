@@ -181,6 +181,42 @@ Result:
 ![Graph 2](graph2.png)
 
 
+## Part 4: Tidyverse Example (stringr)
+ใช้สำหรับจัดการตัวหนังสือได้ในรูปแบบต่างๆ ยกตัวอย่างเช่น
+### 1.
+```
+Test <- c("Hello", "My", "Name", "Is", "Oat", "Kub")
+str_c(Test, collapse = ", ")
+```
+Result: 
+
+```
+"Hello, My, Name, Is, Oat, Kub" (เป็นการเติมตัวหนังสือเข้าไป)
+```
+
+### 2.
+```
+str_sub(Test, 1, 2)
+```
+
+Result: 
+
+```
+"He" "My" "Na" "Is" "Oa" "Ku" (เป็นการจำกัดตัวอักษรที่แสดงผล)
+```
+
+### 3.
+```
+str_subset(Test, "[aeiou]")
+```
+
+Result: 
+
+```
+"Hello" "Name"  "Oat"   "Kub" (เป็นการเลือกว่าข้อความไหนมีตัวที่อยู่ใน subset ที่กำหนด
+```
+
+
 ## Part B
 ### Part 1: Power BI
 https://app.powerbi.com/groups/me/reports/6d6d62e1-4130-4722-a294-54caacb1094d/ReportSection
