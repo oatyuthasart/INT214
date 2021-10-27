@@ -154,10 +154,10 @@ Result:
 
 
 ## Part 3: Visualization with GGplot2
-### 1.) Graph show relation between height and mass
+### 1.) กราฟแสดงความสัมพันธ์ระหว่างเรตติ้งและราคา ของหนังสือแต่ละประเภท
 ```
-scat_plot <- starwars %>% filter(mass<500) %>% ggplot(aes(x=height,y=mass))+
-  geom_point(aes(color=gender))
+scat_plot <- cs %>% ggplot(aes(x=Price, y=Rating))+
+  geom_point(aes(color=Type))
 
 scat_plot+geom_smooth()
 ```
