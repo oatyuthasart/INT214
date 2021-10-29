@@ -219,7 +219,7 @@ Result:
 
 ## Part B
 ### Part 1: Power BI
-https://app.powerbi.com/groups/me/reports/6d6d62e1-4130-4722-a294-54caacb1094d?ctid=6f4432dc-20d2-441d-b1db-ac3380ba633d&pbi_source=linkShare
+https://app.powerbi.com/view?r=eyJrIjoiMTYyODkzMmEtODkzZi00ZTNkLWJmZGYtYWZkZTlkMWRkZmQyIiwidCI6IjZmNDQzMmRjLTIwZDItNDQxZC1iMWRiLWFjMzM4MGJhNjMzZCIsImMiOjEwfQ%3D%3D
 
 ### สรุปสิ่งที่ได้ทำจาก Power BI
 - เป็น Tool ที่อำนวยความสะดวกได้ดีมากในเรื่องของการวิคราะห์สถิติทางด้านต่างๆ ไม่ต้องโค้ดดิ้ง แค่เลือกใช้คอลัมน์ที่จะนำมาวิเคราะห์
