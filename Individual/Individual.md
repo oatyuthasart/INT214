@@ -27,6 +27,7 @@ library(assertive)
 library(readr)
 library(tidyr)
 library(plyr)
+library(ggplot2)
 
 # Dataset
 cs <- read_csv("https://raw.githubusercontent.com/safesit23/INT214-Statistics/main/datasets/prog_book.csv")
